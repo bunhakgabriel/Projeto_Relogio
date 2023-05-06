@@ -1,0 +1,112 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+div#container{
+    height: 90vh;
+    display: flex;
+}
+
+section#navegacao{
+    background-color: #151515;
+    border-radius: 10px;
+}
+
+section#navegacao ul{
+    list-style: none;
+    padding: 0;
+
+}
+
+section#navegacao ul a{
+    text-decoration: none;
+    padding: 20px 15px;
+    display: block;
+    color: white;
+    font-family: sans-serif;
+    font-size: 1.3em;
+}
+
+section#navegacao a.ativo{
+    background-color: #2E2E2E;
+}
+
+section#navegacao nav ul a:hover{
+    background-color: #2E2E2E;
+}
+
+section#relogio{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+section#relogio div{
+    text-align: center;
+    padding: 40px 0px;
+}
+
+section#relogio div h1{
+    font-size: 4em;
+    font-family: 'Chakra Petch', sans-serif;
+    margin: 5px;
+}
+
+section#relogio div h3{
+    font-size: 2em;
+    font-family: 'Chakra Petch', sans-serif;
+    margin: 5px;
+}
+
+section#relogio div span#milisegundos{
+    font-size: 0.5em;
+}
+
+section#relogio div button{
+    padding: 5px 15px;
+    font-size: 1.2em;
+}
+
+/* CSS TEMPORIZADOR */
+
+.style_input{
+    width: 90px;
+    height: 100px;
+    font-size: 1.1em;
+    color: white;
+    background-color: black;
+    font-family: 'Chakra Petch', sans-serif;
+    border: 0px;
+    border-radius: 10px;
+    margin-left: 0px;
+    padding: 5px;
+    margin: 0px -10px;
+}
+
+input::placeholder{
+    color: white;
+}
+
+#btn_temp{
+    margin-top: 0px;
+    width: 350px;
+}
+
+section.tagJS{
+
+    border-radius: 80px;
+    display: inline-block;
+    font-size: 5.3em;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+div#inserir{
+    font-size: 1.2em;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+div#inserir input{
+    width: 30px;
+}
