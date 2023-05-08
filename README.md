@@ -26,3 +26,9 @@
 ![Temporizador](Readme_img/Temporizador.png)
 
 ### Esse é um projeto básico, o foco foi a utilização do JavaScript Vanilla, nesse projeto eu pude desenvolver e aprimorar meus conhecimentos em funções, passagens por parâmetro, condições, interação do Html com JavaScript e também um aprofundamento do objeto Date, também foi utilizado CSS para estilização, contudo esse não foi o foco principal do projeto.  
+### Também foi utilizado Web Design Responsivo, ou seja, é possivel renderizar esse projeto em uma variedade de dispositivos como celulares, tablets e computadores.
+
+<br>
+
+- Página Web : [RelógioDigital/BunhakGabriel](https://regal-peony-2bb6ff.netlify.app)
+- Repositório GitHub : [Projeto_Relogio](https://github.com/bunhakgabriel/Projeto_Relogio)
